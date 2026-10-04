@@ -22,12 +22,19 @@ Build C project and develop functions for LED patterns based on switch and butto
 
 
 ## Analysis and Results
+Port 1 Updated Direction Register
 ![Port 1 Updated Direction Register](/screenshots/ece528L_lab0_gpio_port1.png)
 
+
+Port 2 Updated Direction and Drive Strength Register
 ![Port 2 Updated Direction and Drive Strength Register](/screenshots/ece528L_lab0_gpio_port2.png)
 
+
+Port 9 Updated Direction Register
 ![Port 9 Updated Direction Register](/screenshots/ece528L_lab0_gpio_port9.png)
 
+
+Port 10 Direction Register
 ![Port 10 Direction Register](/screenshots/ece528L_lab0_gpio_port10.png)
 
 
